@@ -26,7 +26,7 @@ Browse the directories for individual solutions — each contains its own README
 
 | Solution | Purpose | Status |
 |----------|---------|--------|
-| _Coming soon_ | _Add your first automation_ | ⏳ |
+| [sync-opencode-models](sync-opencode-models/) | PowerShell launcher: sync OpenCode models then start OpenCode (`OPENCODE_BIN`, `OMO_SYNC_SCRIPT`, `OMO_CONFIG`) | ✅ Validated |
 
 > Add new solutions as top-level folders with a dedicated README per solution.
 
