@@ -13,6 +13,9 @@ Desktop.ini
 # CodeGraph (local index - regenerate via `codegraph init`)
 .codegraph/
 
+# Agent session artifacts (local run state, never commit)
+.omo/
+
 # Env & secrets
 .env
 .env.*
